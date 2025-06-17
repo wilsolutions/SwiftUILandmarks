@@ -1,6 +1,6 @@
 # SwiftUILandmarks
-This is my practice project using: 
-- SwiftUI to fetch and display data,
+This was my initial practice project to experiment the following technologies: 
+- SwiftUI
 - Use of Combine
 - Core Graphics
 - Core Location
