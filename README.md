@@ -1,5 +1,5 @@
 # SwiftUILandmarks
-This was my initial practice project to experiment the following technologies: 
+A project to showcase the following technologies: 
 - SwiftUI
 - Use of Combine
 - Core Graphics
